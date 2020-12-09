@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "UmNewsFeed_17125605_1"
